@@ -1,3 +1,3 @@
-module github.com/TMSoftSolution/greetings
+module tm/greetings
 
 go 1.18
