@@ -1,1 +1,3 @@
 # greetings
+
+go module
